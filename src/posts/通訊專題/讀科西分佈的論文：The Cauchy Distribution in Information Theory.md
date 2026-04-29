@@ -139,6 +139,8 @@ $$f_{V_{\beta,\rho}}(x) = \frac{\kappa_{\beta,\rho}}{(1+|x|^\rho)^\beta}$$
 
 當 $(\beta, \rho) = (1, 2)$ 他就是 Cauchy，當然，這個公式不只包含著 Cauchy ，調整參數$\rho=2$，$\beta=\frac{\nu+1}{2}$，然後再把 x 軸縮放 $\sqrt{\nu}$ 倍，它就會變成標準的 Student-t 分佈，也等價於說 Pearson Type VII 分佈（我查了一下，我的理解就是說這些就是那些同樣具有 heavy tail 性質的分佈）。
 
+## Section3
+
 
 
 
